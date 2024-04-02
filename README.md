@@ -19,7 +19,7 @@ Welcome to visit my GitHub Profile!
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SmartPolarBear/count.svg" />
+  <img src="https://profile-counter.glitch.me/jackhexiangyu12/count.svg" />
 </p>
 
 
