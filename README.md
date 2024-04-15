@@ -15,7 +15,8 @@ Welcome to visit my GitHub Profile!
 - Seeking for new points of interests and new passion
 
 
-![Contributions](https://github-readme-stats.vercel.app/api?username=jackhexiangyu12&theme=tokyonight&show_icons=true)
+![Contributions](https://github-readme-stats-git-depend-1af79c-jackhexiangyu12s-projects.vercel.app/api?show_icons=true&username=jackhexiangyu12&theme=tokyonight&count_private=true)
+
 
 <p align="center"> 
   Visitor count<br>
