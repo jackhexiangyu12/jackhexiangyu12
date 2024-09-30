@@ -5,7 +5,7 @@ Welcome to visit my GitHub Profile!
 #### Quick Glance at Me
 
 - ♂️ He/Him
-- 🏫 Year 4 Computer Science Undergraduate
+- 🏫 Year 1 Computer Science Phd Student
 - 💻 Windows 10, Mac OS .
 - 💓 C++/Python,Deep learning, Vue, PHP
 - 🔭 Working on ...
