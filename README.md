@@ -5,10 +5,10 @@ Welcome to visit my GitHub Profile!
 #### Quick Glance at Me
 
 - ♂️ He/Him
-- 🏫 Year 1 Computer Science Phd Student
+- 🏫 Year 2 Computer Science Phd Student
 - 💻 Windows 10, Mac OS .
 - 💓 C++/Python,Deep learning, Vue, PHP
-- 🔭 Working on ...
+- 🔭 Working on AI Security.
 
 #### Currently...
 - Working with pytorch for deep learning tasks
